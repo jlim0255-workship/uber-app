@@ -4,6 +4,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/location-service/location-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matching-service/matching-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ride-service/ride-service/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
