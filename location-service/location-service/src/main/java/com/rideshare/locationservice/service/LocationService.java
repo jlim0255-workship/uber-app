@@ -27,7 +27,6 @@ public class LocationService {
      * Called every 3 seconds by driver's phone
      * Maps to Redis GEOADD command
      */
-
     public void updateDriverLocation(DriverLocationRequest driverLocationRequest){
         log.info("Updating location for driver: {}", driverLocationRequest.getDriverId());
 
